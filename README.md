@@ -3,6 +3,8 @@ Projeto Divulga tudo -
 Capgemini
 </h1>
 
+[![NPM] (https://img.shields.io/npm/1/react)](https://github.com/cah-suzuki/Projeto-Capgemini-V2/blob/master/LICENSE)
+
 ## Sobre 📄
 
 O projeto **divulga tudo** é um sistema de gerenciamento de anúncios online, projetado como desafio de programação do programa de contratação da empresa **capgemini**.
