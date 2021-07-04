@@ -5,7 +5,7 @@ Capgemini
 
 
 ## License
-(https://github.com/cah-suzuki/Projeto-Capgemini-V2/blob/master/LICENSE)
+!.[📙] (https://github.com/cah-suzuki/Projeto-Capgemini-V2/blob/master/LICENSE)
 
 ## Sobre 📄
 
@@ -26,7 +26,7 @@ Este projeto se encontra 🚧 em desenvolvimento 🚧 e conta com um cadastro e 
 ### Como Baixar o Arquivo 🗂
 
 ```bash
-$ git clone 
+$ git clone https://github.com/cah-suzuki/Projeto-Capgemini-V2
 ```
 
 ### Como executar 
