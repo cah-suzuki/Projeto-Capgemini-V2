@@ -3,6 +3,8 @@ Projeto Divulga tudo -
 Capgemini
 </h1>
 
+
+## License
 [![NPM] (https://img.shields.io/npm/l/react)](https://github.com/cah-suzuki/Projeto-Capgemini-V2/blob/master/LICENSE)
 
 ## Sobre 📄
