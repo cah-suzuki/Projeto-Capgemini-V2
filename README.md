@@ -5,7 +5,7 @@ Capgemini
 
 
 ## License
-!.[📙] (https://github.com/cah-suzuki/Projeto-Capgemini-V2/blob/master/LICENSE)
+(https://github.com/cah-suzuki/Projeto-Capgemini-V2/blob/master/LICENSE)
 
 ## Sobre 📄
 
@@ -29,4 +29,24 @@ Este projeto se encontra 🚧 em desenvolvimento 🚧 e conta com um cadastro e 
 $ git clone https://github.com/cah-suzuki/Projeto-Capgemini-V2
 ```
 
-### Como executar 
+### Como executar o projeto
+Pré-requisitos Java 11
+Eclipse IDE
+
+- O projeto está sendo executado nessa fase no console da própria IDE 
+- application -Program -executar
+
+### Instruçoes de Utilizacao
+O programa não dispõe de interface gráfica e sim de comandos recebidos e exibidos no próprio console
+Ao ser executado o programa vai exibir um menu com input numérico 
+Digite valor númerico correspondente a opção desejada
+Se opção for cadastro , o console pedirá por dados do cadastro
+Ao cadastrar dados,os mesmos são salvos em arquivo json na home do usuário
+Digitando a opção 2 para busca
+usuario pode digitar nome da empresa a qual deseja ver os relatorios 
+impressão dos relatórios aparece na tela
+
+### Autor
+Camila Suzuki Do Rosário
+
+
